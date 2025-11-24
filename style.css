@@ -4,5 +4,16 @@ h2{
 }
 
 body{
-    background-color:grey;
+    background-color:#305050;
+    color: white;
+    font-family: Roboto;
+     text-align: center;
+}
+
+header {
+    border-bottom: 1px solid grey;
+}
+
+footer {
+    border-top: 1px solid grey;
 }
